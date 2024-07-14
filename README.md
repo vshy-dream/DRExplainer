@@ -47,6 +47,6 @@ Here is a list of the code files in this repository:
 
 ## Contact
 
-If you need any help or are looking for cooperation feel free to contact us: haoyuanshi@stu.ahau.edu.cn.
+If you need any help or are looking for cooperation feel free to contact us: haoyuan.shi@mail.ustc.edu.cn.
 
 
